@@ -11,7 +11,7 @@
   "hexo": {
     "version": "6.3.0"
   },
-  "scrip": {
+  "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
