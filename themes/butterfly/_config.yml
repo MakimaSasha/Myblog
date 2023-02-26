@@ -96,7 +96,8 @@ favicon: https://s2.loli.net/2023/02/24/sTzSX9UNJYpbZFq.png #/img/favicon.png
 # Avatar (頭像)
 avatar:
         #img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
-       img: https://s2.loli.net/2023/02/24/zT4VKe6ECMLfghY.jpg
+       #img: https://s2.loli.net/2023/02/24/zT4VKe6ECMLfghY.jpg
+       img: img/avatar.jpg
        effect: false
 
 # Disable all banner image
@@ -160,7 +161,7 @@ post_meta:
     tags: false # true or false 主頁是否顯示標籤
     label: true # true or false 顯示描述性文字
   post:
-    date_type: both # created or updated or both 文章頁日期是創建日或者更新日或都顯示
+    date_type: created # created or updated or both 文章頁日期是創建日或者更新日或都顯示
     date_format: date # date/relative 顯示日期還是相對日期
     categories: true # true or false 文章頁是否顯示分類
     tags: true # true or false 文章頁是否顯示標籤
@@ -656,7 +657,7 @@ subtitle:
 
 # Loading Animation (加載動畫)
 preloader:
-  enable: true
+  enable: false
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
