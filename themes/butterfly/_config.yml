@@ -689,14 +689,14 @@ aside:
       link: https://github.com/MakimaSasha
   card_announcement:
     enable: true
-    content: 下一步计划：Voron2.4 3D打印机
+    content: Voron2.4 3D打印机
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
     sort: date # date or updated
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
-    enable: true
+    enable: false
     limit: 8 # if set 0 will show all
     expand: none # none/true/false
     sort_order: # Don't modify the setting unless you know how it works
