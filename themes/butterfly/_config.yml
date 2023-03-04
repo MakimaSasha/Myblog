@@ -3,14 +3,15 @@
 # --------------------------------------
 
 menu:
-  首页: / || fas fa-home
-  时间轴: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
+  首页: / || iconfont icon-home
+  Webchat: https://webchat.store || iconfont icon-robot
+  时间轴: /archives/ || iconfont icon-box
+  标签: /tags/ || iconfont icon-tags
   # 分类: /categories/ || fas fa-folder-open
   清单||fas fa-list:
-     音乐: /music/ || fas fa-music
-     照片: /Gallery/ || fas fa-images
-     电影: /movies/ || fas fa-video
+     音乐: /music/ || iconfont icon-music
+     照片: /Gallery/ || iconfont icon-photo
+     电影: /movies/ || iconfont icon-film
      #link: /link/ || fas fa-link
      # 关于: /about/ || fas fa-heart
 
@@ -897,7 +898,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_3931731_8pqsf3wdoln.css">
   bottom:
     # - <script src="xxxx"></script>
 
