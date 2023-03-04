@@ -1,10 +1,10 @@
 top:
         - class_name: chatgpt
           id_name: chatgpt
-          name: Webchat
+          name: Webchat-基于chatgpt
           icon: iconfont icon-robot
           order:
-          html: '<a href="https://webchat.store" target="_blank">Webchat聊天机器人</a>'
+          html: '<button style="width: 320px; height: 50px; font-size: 20px; background: linear-gradient(to right,#f7d019,#8c1aff); color: white; border: none; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);"> <a href="https://webchat.store" style="text-decoration: none; color: white;">在线聊天</a> </button>'
 
 bottom:
         - class_name: user-map
