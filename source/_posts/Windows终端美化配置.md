@@ -358,5 +358,7 @@ tag: Windows
 }
 ```
 
+### 美化效果
+
 <img src="https://s2.loli.net/2023/03/09/gWyKw7RQuvMc2xh.png" alt="powershell_color.png" style="zoom:100%;" />
 
