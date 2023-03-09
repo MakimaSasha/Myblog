@@ -12,6 +12,7 @@ bottom:
           name: 访客地图
           icon: iconfont icon-map
           order:
-          html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=37E0i6BgG_6hddVE_IgN2756S0Ffk5WGxr2f2MXxUTw"></script>'
+          html: '<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=513emapdj6q&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=georgia&amp;l=1" async="async"></script>'
+                #'<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=37E0i6BgG_6hddVE_IgN2756S0Ffk5WGxr2f2MXxUTw"></script>'
                 #'<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5V2tOKp8qAdRM-i8eu7ETTO9ugt5uKbbG-U7Yj8uMl8"></script>'
                 
