@@ -1,7 +1,7 @@
 ---
 title: PowerShell基础
 date: 2022-05-22 19:53:26
-tag: 计算机语言
+tag: Powershell
 ---
 
 ## 常见命令 &&  常识

@@ -1,7 +1,7 @@
 ---
 title: Linux笔记
 date: 2021-06-05 19:26:47
-tag: 操作系统
+tag: Linux
 ---
 
 ## Shell基础
